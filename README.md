@@ -7,3 +7,5 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=MomanyiPoet&&show_icons=true&title_color=FF7F50&icon_color=FA8072&text_color=daf7dc&bg_color=151515">
+
+I'm Momanyi Brian from Kenya and an upcoming Software Engineer. I do content on Wed Design and I love languages and frameworks like python as well as work in Wordpress.
