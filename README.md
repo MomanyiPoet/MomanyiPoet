@@ -1,7 +1,7 @@
 ### Hey You, Wassup, 👋 I'm Poet
 
 - 🔭 I’m currently working on Ubuntu Linux and C Language😎
-- 💬 Ask me about tech ideas I don't know😂
+- 💬 Ask me about tech ideas I don't know of😂
 - 📫 How to reach me: Instagram m.o.m_a.n.y.i 💖💖
 - ⚡ Fun fact: The Firefox logo isn't a fox… it's a red panda!😜
 
