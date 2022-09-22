@@ -1,6 +1,6 @@
 ### Hey You, Wassup, 👋 call me Poet
 
-- 🔭 I’m currently learning on Python and PHP😎
+- 🔭 I’m currently learning on Python😎
 - 🤳 Skills: Ubuntu / C Language / HTML / CSS / Javascript / PHP / React Native /
 - 💬 Ask me about tech ideas I don't know of😂
 - 📫 How to reach me: Instagram    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/m.o.m_a.n.y.i/)  
