@@ -25,4 +25,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=MomanyiPoet&&show_icons=true&title_color=FF7F50&icon_color=FA8072&text_color=daf7dc&bg_color=151515">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MomanyiPoe)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MomanyiPoet)](https://github.com/anuraghazra/github-readme-stats)
