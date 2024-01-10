@@ -43,8 +43,8 @@
 
 - Check out my Frontend Mentor Solutions at [@MomanyiPoet](https://www.frontendmentor.io/profile/MomanyiPoet)
 
-## Thank You✨ for Stopping by. Kindly
+## Thank You✨ for Stopping by! Kindly
 
 - Visit My Website - [Momanyi Brian](https://momanyi-brian-portfolio.vercel.app) and lets fantasize something great!😊
 
-<h3 align='center'>Bye Bye 🎊 Don't be a Stranger</h3>
+<h3 align='center'>Bye Bye! 🎊 Don't be a Stranger!</h3>
