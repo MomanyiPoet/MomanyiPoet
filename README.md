@@ -2,7 +2,7 @@
 
 ![Alt text](coding.png)
 
-<h2 align="center">I Welcome You to my Engineering World of Design and Development. Lets get Thrilled!👻</h2>
+<h2 align="center">I Welcome You to my Engineering World of Design and Development. <br> Lets get Thrilled!👻</h2>
 
 <h3 align="left">Empowering brands to shine in the digital realm. Let's redefine the norm and stay at the forefront. No fluff, just leading the way in innovation</h3>
 
