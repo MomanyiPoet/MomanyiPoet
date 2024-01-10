@@ -38,6 +38,7 @@
 <h3>Frontend Mentor Coding Challenges</h3>
 
 - [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+
 ![Alt text](Card.png)
 
 - Check out my Frontend Mentor Solutions at [@MomanyiPoet](https://www.frontendmentor.io/profile/MomanyiPoet)
