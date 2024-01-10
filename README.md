@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MomanyiPoet&&show_icons=true&title_color=FF7F50&icon_color=FA8072&text_color=daf7dc&bg_color=151515">
 </div>
 
-<h2 align="left">I am currently engaged in:</h2>
+<h2 align="center">I am currently engaged in:</h2>
 
 <h3>Frontend Mentor Coding Challenges</h3>
 
