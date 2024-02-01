@@ -33,6 +33,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MomanyiPoet&&show_icons=true&title_color=FF7F50&icon_color=FA8072&text_color=daf7dc&bg_color=151515">
 </div>
 
+<h2 align="center">Check Out My Cool Portfolio Projects</h2>
+
+- [Msavvy Blog Website](https://vercel.com/nyabuti-brians-projects/msavvy-blog-site-react-django) - Built with React for the frontend and Django REST Framework for the backend. This project aims to provide a dynamic and interactive platform for creating and sharing blog posts.
+
+  <img src="./msavvy.png" width="300px"/>
+
 <h2 align="center">I am currently engaged in:</h2>
 
 <h3>Frontend Mentor Coding Challenges</h3>
