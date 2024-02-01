@@ -1,6 +1,8 @@
 <h3 align="center">Hey You, Wassup, 👋 call me Poet</h3>
 
-![Alt text](coding.png)
+<div align="center">
+  <img src="./coding.png" width="400px"/>
+</div>
 
 <h2 align="center">I Welcome You to my Engineering World of Design and Development. <br> Lets get Thrilled!👻</h2>
 
@@ -35,9 +37,54 @@
 
 <h2 align="center">Check Out My Cool Portfolio Projects</h2>
 
-- [Msavvy Blog Website](https://vercel.com/nyabuti-brians-projects/msavvy-blog-site-react-django) - Built with React for the frontend and Django REST Framework for the backend. This project aims to provide a dynamic and interactive platform for creating and sharing blog posts.
+### [Msavvy Blog Website:](https://msavvy-blog-site-react-django.vercel.app/)
+- Built with React for the frontend and Django REST Framework for the backend. This project aims to provide a dynamic and interactive platform for creating and sharing blog posts.
 
-  <img src="./msavvy.png" width="300px"/>
+<div align="center">
+  <a href="https://msavvy-blog-site-react-django.vercel.app/" target="Msavvy Website">
+    <img src="./msavvy.png" width="400px"/>
+  </a>
+</div>
+
+### [Utawala Service Garage Management System:](https://utawala-servicesgms.000webhostapp.com/index.php)
+
+- The project mainly targets the automobile business sector (garage-sector). It is designed to attend the basic needs of a small garage, which are the daily operations and routine of the workers (mechanics), time handling and customer satisfaction.
+
+<div align="center">
+  <a href="https://utawala-servicesgms.000webhostapp.com/index.php" target="Utawala SGMS">
+    <img src="./usgms.png" width="400px"/>
+  </a>
+</div>
+
+### [Poetic Inspirations:](https://poetic-inspirations.netlify.app/)
+
+- This website is a collection of poetry resources designed to inspire and engage readers.
+
+<div align="center">
+  <a href="https://poetic-inspirations.netlify.app/" target="Poetic Inspirations">
+    <img src="./poeticInspiration.png" width="400px"/>
+  </a>
+</div>
+
+### NOTEWORTHY PROJECTS
+### [New Year Website:](https://new-year-ruddy.vercel.app/)
+
+- This is a New Year's Website to share warm wishes and success
+<div align="center">
+  <a href="https://new-year-ruddy.vercel.app/" target="New Year Website">
+    <img src="./new-year.png" width="400px"/>
+  </a>
+</div>
+
+### [Christmas Website:](https://christmas-theta.vercel.app/)
+
+- This is a Christmas Website to share warm wishes and success
+<div align="center">
+  <a href="https://christmas-theta.vercel.app/" target="Poetic Inspirations">
+    <img src="./merry-xmas.png" width="400px"/>
+  </a>
+</div>
+
 
 <h2 align="center">I am currently engaged in:</h2>
 
